@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View ,Button} from 'react-native';
 
 export default function App() {
   return (
@@ -10,7 +10,7 @@ export default function App() {
       </Text>
       <Text>
         Open up App.js to start working on your app!
-
+      <button></button>
       </Text>
     </View>
   );
